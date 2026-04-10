@@ -121,10 +121,4 @@ The notebooks in `Code/` walk through the full data analysis pipeline:
 
 ---
 
-## License
-
-This project does not currently specify a license. All rights reserved by the author.
-
----
-
 *League of Legends is a registered trademark of Riot Games. This project is an independent data analysis and is not affiliated with or endorsed by Riot Games.*
