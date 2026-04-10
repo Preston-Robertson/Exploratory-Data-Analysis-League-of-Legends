@@ -1,4 +1,4 @@
-# Project: League of Legends ⚔️
+# Exploratory Data Analysis: League-of-Legends ⚔️
 
 A data analysis project examining champion balance in *League of Legends*. Using real match and champion statistics data, this project applies exploratory data analysis (EDA) and visualization techniques to investigate whether the game's 150+ champion roster is balanced — and where it might not be.
 
